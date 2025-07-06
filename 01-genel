@@ -1,1 +1,80 @@
-.
+# 🧠 01 – Siber Güvenliğe Giriş (Genel Bilgiler)
+
+Siber güvenlik, bilgi teknolojilerinde güvenliği sağlamak için yapılan tüm çalışmaları kapsar. Bu sadece "hacker olmak" değil; 
+sistemleri korumak, analiz yapmak, tehditleri anlamak ve önlem almakla da ilgilidir.
+
+---
+
+## ❓ Siber Güvenlik Nedir?
+
+Siber güvenlik, dijital sistemleri, ağları ve verileri koruma bilimidir. Hedef:
+- Bilgilerin gizliliğini (confidentiality)
+- Bütünlüğünü (integrity)
+- Erişilebilirliğini (availability)
+
+korumaktır. Buna **CIA Triadı** denir.
+
+---
+
+## 🧨 Yanlış Bilinenler
+
+| Yanlış Bilgi | Doğrusu |
+|--------------|---------|
+| Hacker olmak = kötü olmak | Etik hackerlar sistemleri korur |
+| Kod bilmeden hacker olunur | Kod bilmek çok büyük avantajdır |
+| Sadece yazılım bilenler yapar | Ağ, sistem ve analiz bilgisi de çok önemlidir |
+| Siber güvenlik sadece teknik bir alandır | Hukuk, insan psikolojisi ve iletişim de işin içinde |
+
+---
+
+## 🧭 Nereden Başlamalı?
+
+1. **Temel Bilgi:** Bilgisayar sistemleri, ağlar, IP, DNS, OSI katmanları
+2. **Linux:** Terminal komutları, dosya sistemleri
+3. **Uygulama:** TryHackMe, Hacker101, Hack The Box gibi platformlar
+4. **Araçlar:** Wireshark, Nmap, Burp Suite, Metasploit gibi temel araçlar
+5. **İngilizce:** En önemli kaynaklar İngilizce olduğu için temel seviyede anlaşılmalı
+
+---
+
+## 🧱 Siber Güvenliğin Temel Bileşenleri
+
+- **Ağ Güvenliği (Network Security)**
+- **Uygulama Güvenliği (AppSec)**
+- **Donanım Güvenliği**
+- **Fiziksel Güvenlik**
+- **Olay Müdahalesi (Incident Response)**
+- **Adli Bilişim (Forensics)**
+- **Tehdit İstihbaratı**
+
+---
+
+## 📌 Tavsiye Edilen Başlangıç Kaynakları
+
+- **TryHackMe:** interaktif görevlerle öğrenme  
+- **Hacker101:** web uygulama güvenliği için harika başlangıç  
+- **YouTube Kanalları:** NetworkChuck, John Hammond, LiveOverflow  
+- **Kitaplar:**  
+  - “The Web Application Hacker's Handbook”  
+  - “Linux Basics for Hackers”  
+  - “Blue Team Field Manual (BTFM)”
+
+---
+
+## 👣 Yol Haritası
+
+1. Bilgisayar ve ağ temelleri
+2. Linux pratikleri
+3. Sanal makineler ve lab ortamı kurulumu
+4. Temel araçlarla tanışma
+5. Web güvenliği / ağ güvenliği / SOC farklarını öğrenme
+6. Alan seçimi: Red Team, Blue Team, Purple Team
+7. Sertifikalar ve kariyer planı
+
+---
+
+## 📢 Not
+
+Bu belge, başlangıç seviyesinde hazırlanmıştır. Geliştirmeye devam edeceğiz. Katkı sunmak istersen, pull-request göndererek katkıda bulunabilirsin 🙌
+
+
