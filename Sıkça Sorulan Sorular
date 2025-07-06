@@ -1,0 +1,179 @@
+🛡️ Siber Güvenlik: Sıkça Sorulan Sorular (SSS)
+
+Siber güvenlik alanında en çok sorulan sorulara sade, doğru ve detaylı cevaplar.
+📌 1. Siber Güvenliğe Nasıl Başlanır?
+
+    Temel Bilgisayar Bilgisi:
+
+        İşletim sistemleri (özellikle Linux ve Windows)
+
+        Dosya yapıları, komut satırı kullanımı
+
+        Bilgisayarın nasıl çalıştığı (CPU, RAM, HDD mantığı)
+
+    Ağ (Network) Temelleri:
+
+        IP adresi, MAC adresi, DNS, DHCP
+
+        TCP/IP modeli (OSI katmanları)
+
+        Portlar ve protokoller (HTTP, HTTPS, FTP, SSH, vs.)
+
+    Linux Öğren:
+
+        Terminal kullanımı, dosya sistemi
+
+        Bash komutları
+
+        Permission'lar (chmod, chown)
+
+    Temel Güvenlik Bilgisi:
+
+        Zararlı yazılımlar (virüs, trojan, ransomware)
+
+        Saldırı türleri (DDoS, MITM, SQL Injection vs.)
+
+    Uygulamalı Platformlara Katıl:
+
+        TryHackMe
+
+        Hack The Box
+
+        OverTheWire
+
+        Hacker101
+
+📚 2. En İyi Kaynaklar Neler?
+YouTube Kanalları:
+
+    TCM Security (ingilizce, kaliteli red team içerikleri)
+
+    NetworkChuck (popüler, eğlenceli anlatım)
+
+    IppSec (HackTheBox çözüm videoları)
+
+Ücretsiz Eğitimler:
+
+    Hacker101.com
+
+    TryHackMe: Introduction to Cyber Security
+
+    Cybrary
+
+    Open Security Training
+
+Ücretli Kurslar:
+
+    Udemy: "Complete Cyber Security Course" serisi – Nathan House
+
+    TCM Security: Practical Ethical Hacking
+
+    eLearnSecurity: eJPT, eCPPT
+
+Kitaplar:
+
+    The Web Application Hacker’s Handbook
+
+    Hacking: The Art of Exploitation – Jon Erickson
+
+    Linux Basics for Hackers – OccupyTheWeb
+
+    Blue Team Field Manual (BTFM)
+
+💼 3. İşverenler Ne Arıyor?
+
+    Temel Teknik Bilgi:
+
+        Ağ bilgisi, sistem bilgisi, güvenlik temelleri
+
+    Pratik Deneyim:
+
+        CTF çözme, TryHackMe lab'ları
+
+        GitHub projeleri veya blog yazıları
+
+    Sertifikalar:
+
+        CompTIA Security+
+
+        OSCP (Offensive Security Certified Professional)
+
+        CEH (Certified Ethical Hacker)
+
+        eJPT (Junior Penetration Tester)
+
+    Yumuşak Beceriler (Soft Skills):
+
+        Problem çözme yeteneği
+
+        Takım çalışması
+
+        Sürekli öğrenme isteği
+
+🎓 4. Üniversite, Kurs, Sertifika: Hangisi?
+Yöntem              Avantajları                        Dezavantajları
+Üniversite	 Teorik bilgi, diploma, çevre	           Süre uzun, maliyetli olabilir
+Online Kurs	 Hızlı öğrenim, pratik odaklı	           Kalite değişken, rehber eksikliği
+Sertifikalar CV’de güçlü etki                     	 Ücretli ve zorlu sınavlar olabilir
+
+
+Not: Bunların hiçbirinin “tek başına yeterli” olmadığını unutma. Karışım en doğrusudur.
+🧰 5. Siber Güvenlikte Kullanılan Araçlar
+Red Team Araçları:
+
+    Nmap: Port tarayıcı
+
+    Burp Suite: Web uygulama güvenlik testi
+
+    Metasploit: Exploit geliştirme ve saldırı framework’ü
+
+    Hydra: Brute-force saldırıları
+
+    Nikto: Web server açığı tarayıcı
+
+Blue Team Araçları:
+
+    Wireshark: Ağ trafiği analiz aracı
+
+    Splunk / ELK: Log analizi ve korelasyon
+
+    Sysmon: Windows log toplama
+
+    Security Onion: Blue team için özel Linux dağıtımı
+
+🧩 6. SOC (Security Operations Center) Nedir?
+Ne Yapar?
+
+    Log toplar ve analiz eder
+
+    Güvenlik olaylarına müdahale eder (Incident Response)
+
+    Alarm üretir ve analiz eder
+
+    Zararlı yazılım tespiti yapar
+
+Kullanılan Teknolojiler:
+
+    SIEM (Splunk, ELK, Wazuh)
+
+    EDR (CrowdStrike, SentinelOne)
+
+    Threat Intelligence Platformları
+
+Kariyer Başlangıcı:
+
+    Junior SOC Analyst → SOC Analyst → Incident Responder → Threat Hunter
+
+🧠 7. Siber Güvenlikte Alanlar Nelerdir?
+Alan	                     Açıklama
+Red Team	                 Sızma testleri, saldırı simülasyonları
+Blue Team	                 Savunma, log analizi, tehdit tespiti
+Purple                     Team	Red + Blue Team iş birliği
+GRC	                       Governance, Risk and Compliance (yasal, standartlar)
+DFIR	                     Digital Forensics and Incident Response
+Malware Analysis	         Zararlı yazılım inceleme ve tersine mühendislik
+
+💬 Katkı Sağlamak İsteyenler İçin
+
+Pull Request veya Issue açarak öneride bulunabilirsiniz.
+Amacımız Türkiye’deki Türkçe kaynak ihtiyacına katkı sağlamak.
